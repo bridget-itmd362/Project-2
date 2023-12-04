@@ -347,6 +347,11 @@ form {
     font-size: 45px;
 }
 
+.button{
+    color: white;
+    background-color:  rgb(255, 115, 0);
+}
+
 /* Two Media Queries*/
 /*ipad*/
 @media (min-width: 768px){
